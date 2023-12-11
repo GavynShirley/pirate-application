@@ -1,8 +1,13 @@
+@font-face {
+    font-family: 'OnePiece';
+    src: url('Fonts/one piece font.ttf') format('truetype');
+}
+
 body {
     margin: 0;
     color: #D93827;
     text-align: center;
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'OnePiece', sans-serif;
 }
 
 #hero {
@@ -23,7 +28,7 @@ body {
     padding: 6px 12px;
     background: #e8f8f7;
     border: none;
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'OnePiece', sans-serif;
     color: #D93827;
     font-weight: 800;
 }
